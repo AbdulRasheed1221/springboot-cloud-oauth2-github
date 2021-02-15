@@ -1,4 +1,4 @@
-package com.javatechie.spring.cloud.security.api;
+package com.spring.cloud.security.api;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
